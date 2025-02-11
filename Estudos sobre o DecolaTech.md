@@ -10,3 +10,13 @@ Programação orientada a objetos
 4. Herança
 5. Polimorfismo
 
+## Escolha a sua IDE - Ambinete de desenvolvimento integrado
+
+pontos a considerar:
+
+- Formatação de palavras e blocos de código internacional
+- Análise de erro de sintaxe
+- Compilação de programa
+- Depuração
+
+
